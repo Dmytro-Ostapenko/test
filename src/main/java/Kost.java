@@ -6,7 +6,7 @@ public class Kost {
     }
 
     public void sayHello(){
-        System.out.println("2");
+        System.out.println("22");
     }
 
 }
